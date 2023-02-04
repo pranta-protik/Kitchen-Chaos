@@ -411,4 +411,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   counterTopPoint: {fileID: 980461559782229153}
-  kitchenObjectSO: {fileID: 11400000, guid: 049c7f7082cd89a48b8df121bb42943d, type: 2}
+  kitchenObjectSO: {fileID: 11400000, guid: 4ba83d961392f8541998cf104f22f48c, type: 2}
